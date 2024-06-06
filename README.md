@@ -37,7 +37,7 @@ Libraries Used:
 Clone the repository:
 
 Copy code
-git clone https://github.com/yourusername/number-guessing-game.git
+git clone [https://github.com/yourusername/number-guessing-game.git](https://github.com/MananBagga/CodeAlpha_task1.git)
 
 Navigate to the project directory:
 Copy code
