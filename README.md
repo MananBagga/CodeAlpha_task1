@@ -3,6 +3,8 @@ Number Guessing Game
 Overview
 Welcome to the Number Guessing Game, an interactive console-based game developed in C++. This project is designed to be fun and engaging, offering multiple difficulty levels and providing a user-friendly interface with sound alerts and colorful prompts. It was created as part of my internship to strengthen my programming skills and learn more about user interface design and input validation in C++.
 
+<hr>
+
 # Features
 Interactive User Interface:
 
@@ -29,6 +31,8 @@ Programming Language: C++
 Libraries Used:
 <windows.h> for sound alerts.
 
+<hr>
+
 # Getting Started
 Clone the repository:
 
@@ -37,14 +41,17 @@ git clone https://github.com/yourusername/number-guessing-game.git
 
 Navigate to the project directory:
 Copy code
+<br>
 cd number-guessing-game
 
 Compile the program:
 Copy code
+<br>
 g++ -o number_guessing_game main.cpp
 
 Run the program:
 Copy code
+<br>
 ./number_guessing_game
 
 # Learnings
